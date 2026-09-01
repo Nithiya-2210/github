@@ -1,1 +1,1 @@
-print("create the smple file")
+print("create the sample file")
